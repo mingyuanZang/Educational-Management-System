@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue May 01 11:27:01 CEST 2018
+onejar.license.required=false
+excludes=
+manifest.removesigners=true
+manifest.mergeall=true
+includes=
+onejar.checkbox=true
+onejar.expand=
+manifest.classpath=
+jarname=C\:\\Users\\pc\\git\\InternationalJavaTeam.jar
+jarname.isextern=true
+manifest.file=<createnew>
+manifest.mainclass=application.controller.applicationController
